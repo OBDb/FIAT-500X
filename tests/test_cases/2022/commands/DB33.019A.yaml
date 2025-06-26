@@ -1,9 +1,6 @@
 command_id: DB33.019A
 test_cases:
-- response: |-
-    18DAF14B1008419A06000B00
-    18DAF14B21012E
-  expected_values:
+- expected_values:
     EHEV_MODE: CSM
     EHEV_MODE_SUP: 0
     HEV_BATT_A: 30.2
@@ -12,3 +9,6 @@ test_cases:
     HEV_BATT_V_SUP: 1
     HEV_MODE: CSM
     HEV_MODE_SUP: 0
+  response: |-
+    18DAF14B1008419A06000B00
+    18DAF14B21012E
