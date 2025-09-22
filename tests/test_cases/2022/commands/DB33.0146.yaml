@@ -1,31 +1,31 @@
 command_id: DB33.0146
 test_cases:
 - expected_values:
-    AAT: 17
+    AAT: 13
+  response: 18DAF11003414635
+- expected_values:
+    AAT: 14
   response: |-
-    18DAF1100341463A
-    18DAF14B03414639
+    18DAF11003414636
+    18DAF14B03414636
 - expected_values:
-    AAT: 20
-  response: 18DAF1100341463C
-- expected_values:
-    AAT: 26
+    AAT: 24
   response: |-
-    18DAF11003414643
-    18DAF14B03414642
+    18DAF11003414640
+    18DAF14B03414640
 - expected_values:
-    AAT: 32
+    AAT: 35
   response: |-
-    18DAF11003414649
-    18DAF14B03414648
+    18DAF1100341464C
+    18DAF14B0341464B
 - expected_values:
-    AAT: 20
-  response: 18DAF14B0341463C
+    AAT: 13
+  response: 18DAF14B03414635
 - expected_values:
-    AAT: 21
+    AAT: 14
   response: |-
-    18DAF14B0341463D
-    18DAF1100341463D
+    18DAF14B03414635
+    18DAF11003414636
 - expected_values:
     AAT: 215
   response: 18DAF14B034146FF
