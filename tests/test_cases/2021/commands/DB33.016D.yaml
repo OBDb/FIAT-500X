@@ -1,0 +1,66 @@
+command_id: DB33.016D
+test_cases:
+- expected_values:
+    FRP_A: 29980
+    FRP_A_CMD: 29540
+    FRP_A_CMD_SUP: 1
+    FRP_A_SUP: 1
+    FRP_B: 0
+    FRP_B_CMD: 0
+    FRP_B_CMD_SUP: 0
+    FRP_B_SUP: 0
+    FRT_A: -40
+    FRT_A_SUP: 0
+    FRT_B: -40
+    FRT_B_SUP: 0
+  response: |-
+    18DAF110100D416D030B8A0B
+    18DAF11021B6000000000000
+- expected_values:
+    FRP_A: 32180
+    FRP_A_CMD: 32200
+    FRP_A_CMD_SUP: 1
+    FRP_A_SUP: 1
+    FRP_B: 0
+    FRP_B_CMD: 0
+    FRP_B_CMD_SUP: 0
+    FRP_B_SUP: 0
+    FRT_A: -40
+    FRT_A_SUP: 0
+    FRT_B: -40
+    FRT_B_SUP: 0
+  response: |-
+    18DAF110100D416D030C940C
+    18DAF1102192000000000000
+- expected_values:
+    FRP_A: 38530
+    FRP_A_CMD: 38430
+    FRP_A_CMD_SUP: 1
+    FRP_A_SUP: 1
+    FRP_B: 0
+    FRP_B_CMD: 0
+    FRP_B_CMD_SUP: 0
+    FRP_B_SUP: 0
+    FRT_A: -40
+    FRT_A_SUP: 0
+    FRT_B: -40
+    FRT_B_SUP: 0
+  response: |-
+    18DAF110100D416D030F030F
+    18DAF110210D000000000000
+- expected_values:
+    FRP_A: 39270
+    FRP_A_CMD: 39360
+    FRP_A_CMD_SUP: 1
+    FRP_A_SUP: 1
+    FRP_B: 0
+    FRP_B_CMD: 0
+    FRP_B_CMD_SUP: 0
+    FRP_B_SUP: 0
+    FRT_A: -40
+    FRT_A_SUP: 0
+    FRT_B: -40
+    FRT_B_SUP: 0
+  response: |-
+    18DAF110100D416D030F600F
+    18DAF1102157000000000000
