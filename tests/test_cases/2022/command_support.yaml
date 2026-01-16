@@ -101,9 +101,9 @@ unsupported_commands_by_ecu:
   "6B4":
   - 6B4.694.22D410:Fiat_HVBAT_SOC
   "740":
-  - 740.4C0.22A0A1|fc=1:Fiat_TPAC_FL,Fiat_TP_FL_AC,Fiat_TP_FR_AC,Fiat_TP_RL_AC,Fiat_TP_RR_AC
+  - 740.4C0.22A0A1|fc=1:Fiat_TP_FL_AC,Fiat_TP_FR_AC,Fiat_TP_RL_AC,Fiat_TP_RR_AC
   - 740.4C0.22A0A5|fc=1:Fiat_TP_FL_VALID,Fiat_TP_FR_VALID,Fiat_TP_RL_VALID,Fiat_TP_RR_VALID
-  - 740.4C0.22A0F1|fc=1:Fiat_TP_FL_740,Fiat_TP_FL_V2,Fiat_TT_FL_V2
+  - 740.4C0.22A0F1|fc=1:Fiat_TP_FL_V2,Fiat_TT_FL_V2
   - 740.4C0.22A0F2|fc=1:Fiat_TP_FR_V2,Fiat_TT_FR_V2
   - 740.4C0.22A0F3|fc=1:Fiat_TP_RR_V2,Fiat_TT_RR_V2
   - 740.4C0.22A0F4|fc=1:Fiat_TP_RL_V2,Fiat_TT_RL_V2
