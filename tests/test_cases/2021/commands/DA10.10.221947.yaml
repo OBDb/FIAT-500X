@@ -1,0 +1,5 @@
+command_id: DA10.10.221947
+test_cases:
+- expected_values:
+    Fiat_RAIL_PRESS: 402.4
+  response: 18DAF110056219471F70
