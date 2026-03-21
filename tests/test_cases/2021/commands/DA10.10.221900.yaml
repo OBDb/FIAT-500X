@@ -1,0 +1,5 @@
+command_id: DA10.10.221900
+test_cases:
+- expected_values:
+    Fiat_FUEL_TEMP: 20.86
+  response: 18DAF110056219000BE3
