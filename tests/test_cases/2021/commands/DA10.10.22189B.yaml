@@ -1,0 +1,5 @@
+command_id: DA10.10.22189B
+test_cases:
+- expected_values:
+    Fiat_SWIRL_CMD: 31.38
+  response: 18DAF1100562189B8C42

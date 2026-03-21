@@ -1,0 +1,5 @@
+command_id: DA10.10.2218D0
+test_cases:
+- expected_values:
+    Fiat_MPROP_CMD: 61.93
+  response: 18DAF110056218D01831

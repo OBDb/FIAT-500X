@@ -1,0 +1,5 @@
+command_id: DA10.10.221000
+test_cases:
+- expected_values:
+    Fiat_RPM_ECU: 1740
+  response: 18DAF110056210001B30
