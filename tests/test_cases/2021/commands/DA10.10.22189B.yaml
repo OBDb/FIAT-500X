@@ -1,0 +1,23 @@
+command_id: DA10.10.22189B
+test_cases:
+- expected_values:
+    Fiat_SWIRL_CMD: -0.01
+  response: 18DAF1100562189B7FFF
+- expected_values:
+    Fiat_SWIRL_CMD: 16.78
+  response: 18DAF1100562189B868E
+- expected_values:
+    Fiat_SWIRL_CMD: 21.1
+  response: 18DAF1100562189B883E
+- expected_values:
+    Fiat_SWIRL_CMD: 31.38
+  response: 18DAF1100562189B8C42
+- expected_values:
+    Fiat_SWIRL_CMD: 32.46
+  response: 18DAF1100562189B8CAE
+- expected_values:
+    Fiat_SWIRL_CMD: 36.82
+  response: 18DAF1100562189B8E62
+- expected_values:
+    Fiat_SWIRL_CMD: 37.86
+  response: 18DAF1100562189B8ECA
