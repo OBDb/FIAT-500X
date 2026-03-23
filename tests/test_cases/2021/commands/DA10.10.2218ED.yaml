@@ -1,0 +1,23 @@
+command_id: DA10.10.2218ED
+test_cases:
+- expected_values:
+    Fiat_LAMBDA_DPF_DS: 0.08008
+  response: 18DAF110056218ED0029
+- expected_values:
+    Fiat_LAMBDA_DPF_DS: 0.12109
+  response: 18DAF110056218ED003E
+- expected_values:
+    Fiat_LAMBDA_DPF_DS: 0.13281
+  response: 18DAF110056218ED0044
+- expected_values:
+    Fiat_LAMBDA_DPF_DS: 0.13477
+  response: 18DAF110056218ED0045
+- expected_values:
+    Fiat_LAMBDA_DPF_DS: 0.14648
+  response: 18DAF110056218ED004B
+- expected_values:
+    Fiat_LAMBDA_DPF_DS: 0.1875
+  response: 18DAF110056218ED0060
+- expected_values:
+    Fiat_LAMBDA_DPF_DS: 0.25781
+  response: 18DAF110056218ED0084
