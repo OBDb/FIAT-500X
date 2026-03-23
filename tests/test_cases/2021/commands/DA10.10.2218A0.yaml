@@ -1,0 +1,29 @@
+command_id: DA10.10.2218A0
+test_cases:
+- expected_values:
+    Fiat_VGT_ACT: 74.93706
+  response: 18DAF110056218A0BFD6
+- expected_values:
+    Fiat_VGT_ACT: 89.79934
+  response: 18DAF110056218A0E5E2
+- expected_values:
+    Fiat_VGT_ACT: 89.82986
+  response: 18DAF110056218A0E5F6
+- expected_values:
+    Fiat_VGT_ACT: 89.83597
+  response: 18DAF110056218A0E5FA
+- expected_values:
+    Fiat_VGT_ACT: 90.17777
+  response: 18DAF110056218A0E6DA
+- expected_values:
+    Fiat_VGT_ACT: 90.33646
+  response: 18DAF110056218A0E742
+- expected_values:
+    Fiat_VGT_ACT: 90.50126
+  response: 18DAF110056218A0E7AE
+- expected_values:
+    Fiat_VGT_ACT: 98.65568
+  response: 18DAF110056218A0FC8E
+- expected_values:
+    Fiat_VGT_ACT: 98.71061
+  response: 18DAF110056218A0FCB2

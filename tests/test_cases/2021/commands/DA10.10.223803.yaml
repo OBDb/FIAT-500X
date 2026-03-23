@@ -1,0 +1,23 @@
+command_id: DA10.10.223803
+test_cases:
+- expected_values:
+    Fiat_FUEL_CORR_CYL4: 0.09
+  response: 18DAF110056238030009
+- expected_values:
+    Fiat_FUEL_CORR_CYL4: 0.1
+  response: 18DAF11005623803000A
+- expected_values:
+    Fiat_FUEL_CORR_CYL4: 0.36
+  response: 18DAF110056238030024
+- expected_values:
+    Fiat_FUEL_CORR_CYL4: 0.47
+  response: 18DAF11005623803002F
+- expected_values:
+    Fiat_FUEL_CORR_CYL4: 0.69
+  response: 18DAF110056238030045
+- expected_values:
+    Fiat_FUEL_CORR_CYL4: -0.62
+  response: 18DAF11005623803FFC2
+- expected_values:
+    Fiat_FUEL_CORR_CYL4: -0.03
+  response: 18DAF11005623803FFFD
