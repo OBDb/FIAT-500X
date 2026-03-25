@@ -23,4 +23,7 @@ test_cases:
   response: 18DAF1100562190B3D07
 - expected_values:
     Fiat_VSS_ECU: 300
+  response: 18DAF1100562190B41A9
+- expected_values:
+    Fiat_VSS_ECU: 300
   response: 18DAF1100562190B452B

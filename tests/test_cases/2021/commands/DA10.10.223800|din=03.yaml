@@ -7,20 +7,5 @@ test_cases:
     Fiat_FUEL_CORR_CYL1: -0.82
   response: 18DAF11005623800FFAE
 - expected_values:
-    Fiat_FUEL_CORR_CYL1: -0.74
-  response: 18DAF11005623800FFB6
-- expected_values:
-    Fiat_FUEL_CORR_CYL1: -0.7
-  response: 18DAF11005623800FFBA
-- expected_values:
-    Fiat_FUEL_CORR_CYL1: -0.55
-  response: 18DAF11005623800FFC9
-- expected_values:
-    Fiat_FUEL_CORR_CYL1: -0.49
-  response: 18DAF11005623800FFCF
-- expected_values:
-    Fiat_FUEL_CORR_CYL1: -0.25
-  response: 18DAF11005623800FFE7
-- expected_values:
-    Fiat_FUEL_CORR_CYL1: -0.1
-  response: 18DAF11005623800FFF6
+    Fiat_FUEL_CORR_CYL1: -0.04
+  response: 18DAF11005623800FFFC
