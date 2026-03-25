@@ -1,0 +1,23 @@
+command_id: DA10.10.221900|din=03
+test_cases:
+- expected_values:
+    Fiat_FUEL_TEMP: 16.36
+  response: 18DAF110056219000B02
+- expected_values:
+    Fiat_FUEL_TEMP: 16.46
+  response: 18DAF110056219000B07
+- expected_values:
+    Fiat_FUEL_TEMP: 17.16
+  response: 18DAF110056219000B2A
+- expected_values:
+    Fiat_FUEL_TEMP: 17.26
+  response: 18DAF110056219000B2F
+- expected_values:
+    Fiat_FUEL_TEMP: 18.66
+  response: 18DAF110056219000B75
+- expected_values:
+    Fiat_FUEL_TEMP: 20.76
+  response: 18DAF110056219000BDE
+- expected_values:
+    Fiat_FUEL_TEMP: 20.86
+  response: 18DAF110056219000BE3

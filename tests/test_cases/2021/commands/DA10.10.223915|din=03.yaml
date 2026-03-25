@@ -1,0 +1,29 @@
+command_id: DA10.10.223915|din=03
+test_cases:
+- expected_values:
+    Fiat_DPF_OUTLET_T: 17.46
+  response: 18DAF110056239150B39
+- expected_values:
+    Fiat_DPF_OUTLET_T: 17.66
+  response: 18DAF110056239150B43
+- expected_values:
+    Fiat_DPF_OUTLET_T: 19.06
+  response: 18DAF110056239150B89
+- expected_values:
+    Fiat_DPF_OUTLET_T: 19.16
+  response: 18DAF110056239150B8E
+- expected_values:
+    Fiat_DPF_OUTLET_T: 19.56
+  response: 18DAF110056239150BA2
+- expected_values:
+    Fiat_DPF_OUTLET_T: 72.36
+  response: 18DAF1100562391515F2
+- expected_values:
+    Fiat_DPF_OUTLET_T: 96.86
+  response: 18DAF110056239151ABB
+- expected_values:
+    Fiat_DPF_OUTLET_T: 106.26
+  response: 18DAF110056239151C91
+- expected_values:
+    Fiat_DPF_OUTLET_T: 152.66
+  response: 18DAF1100562391525A1

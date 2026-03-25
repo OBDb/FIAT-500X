@@ -1,0 +1,29 @@
+command_id: DA10.10.223917|din=03
+test_cases:
+- expected_values:
+    Fiat_EGR_COOLER_T: 52.46
+  response: 18DAF11005623917120F
+- expected_values:
+    Fiat_EGR_COOLER_T: 52.76
+  response: 18DAF11005623917121E
+- expected_values:
+    Fiat_EGR_COOLER_T: 53.86
+  response: 18DAF110056239171255
+- expected_values:
+    Fiat_EGR_COOLER_T: 54.56
+  response: 18DAF110056239171278
+- expected_values:
+    Fiat_EGR_COOLER_T: 56.86
+  response: 18DAF1100562391712EB
+- expected_values:
+    Fiat_EGR_COOLER_T: 69.76
+  response: 18DAF110056239171570
+- expected_values:
+    Fiat_EGR_COOLER_T: 81.66
+  response: 18DAF1100562391717C3
+- expected_values:
+    Fiat_EGR_COOLER_T: 100.96
+  response: 18DAF110056239171B88
+- expected_values:
+    Fiat_EGR_COOLER_T: 105.96
+  response: 18DAF110056239171C82

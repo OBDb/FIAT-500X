@@ -1,0 +1,26 @@
+command_id: DA10.10.2218E4|fc=1,din=03
+test_cases:
+- expected_values:
+    Fiat_DPF_SOOT_PCT: 58.6862
+  response: 18DAF110056218E40F06
+- expected_values:
+    Fiat_DPF_SOOT_PCT: 59.29656
+  response: 18DAF110056218E40F2E
+- expected_values:
+    Fiat_DPF_SOOT_PCT: 59.34234
+  response: 18DAF110056218E40F31
+- expected_values:
+    Fiat_DPF_SOOT_PCT: 59.86114
+  response: 18DAF110056218E40F53
+- expected_values:
+    Fiat_DPF_SOOT_PCT: 59.90692
+  response: 18DAF110056218E40F56
+- expected_values:
+    Fiat_DPF_SOOT_PCT: 60.5478
+  response: 18DAF110056218E40F80
+- expected_values:
+    Fiat_DPF_SOOT_PCT: 60.59358
+  response: 18DAF110056218E40F83
+- expected_values:
+    Fiat_DPF_SOOT_PCT: 78.72129
+  response: 18DAF110056218E41427

@@ -1,0 +1,17 @@
+command_id: DA10.10.2218E2|din=03
+test_cases:
+- expected_values:
+    Fiat_DPF_DIFF_PRESS: 0.8
+  response: 18DAF110056218E28008
+- expected_values:
+    Fiat_DPF_DIFF_PRESS: 0.9
+  response: 18DAF110056218E28009
+- expected_values:
+    Fiat_DPF_DIFF_PRESS: 1.1
+  response: 18DAF110056218E2800B
+- expected_values:
+    Fiat_DPF_DIFF_PRESS: 1.7
+  response: 18DAF110056218E28011
+- expected_values:
+    Fiat_DPF_DIFF_PRESS: 2.5
+  response: 18DAF110056218E28019
