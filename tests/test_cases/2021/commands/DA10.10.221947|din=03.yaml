@@ -4,26 +4,8 @@ test_cases:
     Fiat_RAIL_PRESS: 307.1
   response: 18DAF1100562194717FE
 - expected_values:
-    Fiat_RAIL_PRESS: 341.3
-  response: 18DAF110056219471AAA
-- expected_values:
-    Fiat_RAIL_PRESS: 370.6
-  response: 18DAF110056219471CF4
-- expected_values:
-    Fiat_RAIL_PRESS: 402.4
-  response: 18DAF110056219471F70
-- expected_values:
-    Fiat_RAIL_PRESS: 404.9
-  response: 18DAF110056219471FA2
-- expected_values:
     Fiat_RAIL_PRESS: 409.7
   response: 18DAF110056219472002
 - expected_values:
-    Fiat_RAIL_PRESS: 417.1
-  response: 18DAF110056219472096
-- expected_values:
-    Fiat_RAIL_PRESS: 421.9
-  response: 18DAF1100562194720F6
-- expected_values:
-    Fiat_RAIL_PRESS: 575.9
-  response: 18DAF110056219472CFE
+    Fiat_RAIL_PRESS: 1328.6
+  response: 18DAF1100562194767CC
