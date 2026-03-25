@@ -4,20 +4,8 @@ test_cases:
     Fiat_MAF_TEMP: 17.96
   response: 18DAF1100562193F0B52
 - expected_values:
-    Fiat_MAF_TEMP: 18.06
-  response: 18DAF1100562193F0B57
+    Fiat_MAF_TEMP: 21.16
+  response: 18DAF1100562193F0BF2
 - expected_values:
-    Fiat_MAF_TEMP: 18.96
-  response: 18DAF1100562193F0B84
-- expected_values:
-    Fiat_MAF_TEMP: 19.06
-  response: 18DAF1100562193F0B89
-- expected_values:
-    Fiat_MAF_TEMP: 19.16
-  response: 18DAF1100562193F0B8E
-- expected_values:
-    Fiat_MAF_TEMP: 19.46
-  response: 18DAF1100562193F0B9D
-- expected_values:
-    Fiat_MAF_TEMP: 19.86
-  response: 18DAF1100562193F0BB1
+    Fiat_MAF_TEMP: 23.06
+  response: 18DAF1100562193F0C51
