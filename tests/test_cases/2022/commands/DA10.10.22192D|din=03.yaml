@@ -1,0 +1,14 @@
+command_id: DA10.10.22192D|din=03
+test_cases:
+- expected_values:
+    Fiat_GEAR_ECU: 1
+  response: 18DAF1100562192D0190
+- expected_values:
+    Fiat_GEAR_ECU: 1
+  response: 18DAF1100562192D01E0
+- expected_values:
+    Fiat_GEAR_ECU: 2
+  response: 18DAF1100562192D0200
+- expected_values:
+    Fiat_GEAR_ECU: 3
+  response: 18DAF1100562192D0300
