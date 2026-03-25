@@ -1,0 +1,29 @@
+command_id: DA10.10.223914|din=03
+test_cases:
+- expected_values:
+    Fiat_CATALYST_INLET_T: 74.56
+  response: 18DAF110056239141660
+- expected_values:
+    Fiat_CATALYST_INLET_T: 77.96
+  response: 18DAF11005623914170A
+- expected_values:
+    Fiat_CATALYST_INLET_T: 78.46
+  response: 18DAF110056239141723
+- expected_values:
+    Fiat_CATALYST_INLET_T: 81.36
+  response: 18DAF1100562391417B4
+- expected_values:
+    Fiat_CATALYST_INLET_T: 84.76
+  response: 18DAF11005623914185E
+- expected_values:
+    Fiat_CATALYST_INLET_T: 137.76
+  response: 18DAF1100562391422B8
+- expected_values:
+    Fiat_CATALYST_INLET_T: 180.36
+  response: 18DAF110056239142B0A
+- expected_values:
+    Fiat_CATALYST_INLET_T: 198.86
+  response: 18DAF110056239142EA7
+- expected_values:
+    Fiat_CATALYST_INLET_T: 205.56
+  response: 18DAF110056239142FF6
