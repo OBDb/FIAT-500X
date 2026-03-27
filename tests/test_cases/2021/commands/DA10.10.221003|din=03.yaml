@@ -10,20 +10,5 @@ test_cases:
     Fiat_ECT_ECU: 21.46
   response: 18DAF110056210030C01
 - expected_values:
-    Fiat_ECT_ECU: 21.76
-  response: 18DAF110056210030C10
-- expected_values:
-    Fiat_ECT_ECU: 22.36
-  response: 18DAF110056210030C2E
-- expected_values:
-    Fiat_ECT_ECU: 42.76
-  response: 18DAF11005621003102A
-- expected_values:
-    Fiat_ECT_ECU: 47.46
-  response: 18DAF110056210031115
-- expected_values:
-    Fiat_ECT_ECU: 49.66
-  response: 18DAF110056210031183
-- expected_values:
-    Fiat_ECT_ECU: 58.26
-  response: 18DAF110056210031331
+    Fiat_ECT_ECU: 73.66
+  response: 18DAF110056210031633
