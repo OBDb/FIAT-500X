@@ -1,8 +1,8 @@
 command_id: DA10.10.221946|din=03
 test_cases:
 - expected_values:
-    Fiat_RAIL_PRESS_CMD: 325.2
-  response: 18DAF110056219461968
+    Fiat_RAIL_PRESS_CMD: 311
+  response: 18DAF11005621946184C
 - expected_values:
     Fiat_RAIL_PRESS_CMD: 331.9
   response: 18DAF1100562194619EE
