@@ -16,6 +16,9 @@ test_cases:
     Fiat_DPF_DIFF_PRESS: 1.7
   response: 18DAF110056218E28011
 - expected_values:
+    Fiat_DPF_DIFF_PRESS: 2.4
+  response: 18DAF110056218E28018
+- expected_values:
     Fiat_DPF_DIFF_PRESS: 2.5
   response: 18DAF110056218E28019
 - expected_values:
