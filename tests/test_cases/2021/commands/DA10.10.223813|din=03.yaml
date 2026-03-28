@@ -1,5 +1,8 @@
 command_id: DA10.10.223813|din=03
 test_cases:
 - expected_values:
+    Fiat_OIL_DEGRAD: 71.00023
+  response: 18DAF11005623813B5C2
+- expected_values:
     Fiat_OIL_DEGRAD: 71.99969
   response: 18DAF11005623813B851
