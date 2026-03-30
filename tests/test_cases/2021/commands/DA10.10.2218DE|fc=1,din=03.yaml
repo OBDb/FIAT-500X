@@ -1,6 +1,9 @@
 command_id: DA10.10.2218DE|fc=1,din=03
 test_cases:
 - expected_values:
+    Fiat_DPF_INLET_T: 35.36
+  response: 18DAF110056218DE0EB8
+- expected_values:
     Fiat_DPF_INLET_T: 41.56
   response: 18DAF110056218DE0FEE
 - expected_values:
