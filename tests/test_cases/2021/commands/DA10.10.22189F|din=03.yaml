@@ -22,6 +22,9 @@ test_cases:
     Fiat_VGT_CMD: 98.16129
   response: 18DAF1100562189FFB4A
 - expected_values:
+    Fiat_VGT_CMD: 98.22843
+  response: 18DAF1100562189FFB76
+- expected_values:
     Fiat_VGT_CMD: 98.58244
   response: 18DAF1100562189FFC5E
 - expected_values:
