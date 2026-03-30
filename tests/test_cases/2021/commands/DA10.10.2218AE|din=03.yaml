@@ -10,6 +10,9 @@ test_cases:
     Fiat_REGEN_CONSEC_INTERRUPTED: 28
   response: 18DAF110046218AE1C
 - expected_values:
+    Fiat_REGEN_CONSEC_INTERRUPTED: 30
+  response: 18DAF110046218AE1E
+- expected_values:
     Fiat_REGEN_CONSEC_INTERRUPTED: 88
   response: 18DAF110046218AE58
 - expected_values:
