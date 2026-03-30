@@ -4,11 +4,11 @@ test_cases:
     Fiat_DPF_SOOT_PCT: 45.27352
   response: 18DAF110056218E40B97
 - expected_values:
+    Fiat_DPF_SOOT_PCT: 46.61631
+  response: 18DAF110056218E40BEF
+- expected_values:
     Fiat_DPF_SOOT_PCT: 58.6862
   response: 18DAF110056218E40F06
 - expected_values:
     Fiat_DPF_SOOT_PCT: 78.72129
   response: 18DAF110056218E41427
-- expected_values:
-    Fiat_DPF_SOOT_PCT: 81.66629
-  response: 18DAF110056218E414E8
