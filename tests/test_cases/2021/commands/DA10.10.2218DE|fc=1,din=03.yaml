@@ -10,5 +10,5 @@ test_cases:
     Fiat_DPF_INLET_T: 175.16
   response: 18DAF110056218DE2A06
 - expected_values:
-    Fiat_DPF_INLET_T: 182.46
-  response: 18DAF110056218DE2B73
+    Fiat_DPF_INLET_T: 194.86
+  response: 18DAF110056218DE2DDF
