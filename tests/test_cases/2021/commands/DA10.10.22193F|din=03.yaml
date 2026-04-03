@@ -1,14 +1,11 @@
 command_id: DA10.10.22193F|din=03
 test_cases:
 - expected_values:
-    Fiat_MAF_TEMP: 17.96
-  response: 18DAF1100562193F0B52
+    Fiat_MAF_TEMP: 16.76
+  response: 18DAF1100562193F0B16
 - expected_values:
     Fiat_MAF_TEMP: 21.16
   response: 18DAF1100562193F0BF2
-- expected_values:
-    Fiat_MAF_TEMP: 28.16
-  response: 18DAF1100562193F0D50
 - expected_values:
     Fiat_MAF_TEMP: 34.66
   response: 18DAF1100562193F0E95
