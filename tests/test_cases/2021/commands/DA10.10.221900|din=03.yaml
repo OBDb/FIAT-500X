@@ -1,6 +1,9 @@
 command_id: DA10.10.221900|din=03
 test_cases:
 - expected_values:
+    Fiat_FUEL_TEMP: 16.06
+  response: 18DAF110056219000AF3
+- expected_values:
     Fiat_FUEL_TEMP: 16.36
   response: 18DAF110056219000B02
 - expected_values:
