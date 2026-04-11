@@ -7,8 +7,8 @@ test_cases:
     Fiat_EGR_COOLER_T: 56.86
   response: 18DAF1100562391712EB
 - expected_values:
-    Fiat_EGR_COOLER_T: 83.16
-  response: 18DAF11005623917180E
+    Fiat_EGR_COOLER_T: 103.56
+  response: 18DAF110056239171C0A
 - expected_values:
     Fiat_EGR_COOLER_T: 117.06
   response: 18DAF110056239171EAD
