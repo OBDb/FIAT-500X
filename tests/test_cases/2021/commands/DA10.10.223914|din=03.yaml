@@ -1,8 +1,8 @@
 command_id: DA10.10.223914|din=03
 test_cases:
 - expected_values:
-    Fiat_CATALYST_INLET_T: 49.46
-  response: 18DAF110056239141179
+    Fiat_CATALYST_INLET_T: 25.06
+  response: 18DAF110056239140CB5
 - expected_values:
     Fiat_CATALYST_INLET_T: 77.96
   response: 18DAF11005623914170A
