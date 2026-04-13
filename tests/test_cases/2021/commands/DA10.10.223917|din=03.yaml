@@ -1,8 +1,8 @@
 command_id: DA10.10.223917|din=03
 test_cases:
 - expected_values:
-    Fiat_EGR_COOLER_T: 48.66
-  response: 18DAF110056239171151
+    Fiat_EGR_COOLER_T: 20.76
+  response: 18DAF110056239170BDE
 - expected_values:
     Fiat_EGR_COOLER_T: 56.86
   response: 18DAF1100562391712EB
