@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     Fiat_AVG_REGEN_DUR: 7.63333
   response: 18DAF1100562380A01CA
+- expected_values:
+    Fiat_AVG_REGEN_DUR: 8.43333
+  response: 18DAF1100562380A01FA
