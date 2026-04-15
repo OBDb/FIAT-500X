@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     Fiat_REGEN_COMPLETED: 268
   response: 18DAF11005623912010C
+- expected_values:
+    Fiat_REGEN_COMPLETED: 269
+  response: 18DAF11005623912010D
