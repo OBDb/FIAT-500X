@@ -1,8 +1,8 @@
 command_id: DA10.10.221000|din=03
 test_cases:
 - expected_values:
-    Fiat_RPM_ECU: 857
-  response: 18DAF110056210000D64
+    Fiat_RPM_ECU: 844.5
+  response: 18DAF110056210000D32
 - expected_values:
     Fiat_RPM_ECU: 897.5
   response: 18DAF110056210000E06
