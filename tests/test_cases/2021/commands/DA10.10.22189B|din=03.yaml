@@ -4,8 +4,8 @@ test_cases:
     Fiat_SWIRL_CMD: -0.01
   response: 18DAF1100562189B7FFF
 - expected_values:
-    Fiat_SWIRL_CMD: 33.7
-  response: 18DAF1100562189B8D2A
+    Fiat_SWIRL_CMD: 5.38
+  response: 18DAF1100562189B821A
 - expected_values:
     Fiat_SWIRL_CMD: 39.3
   response: 18DAF1100562189B8F5A

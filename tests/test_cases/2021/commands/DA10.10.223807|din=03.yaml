@@ -4,6 +4,9 @@ test_cases:
     Fiat_DIST_SINCE_REGEN: 42
   response: 18DAF110066238070001A4
 - expected_values:
+    Fiat_DIST_SINCE_REGEN: 101
+  response: 18DAF110066238070003F2
+- expected_values:
     Fiat_DIST_SINCE_REGEN: 138
   response: 18DAF11006623807000564
 - expected_values:
