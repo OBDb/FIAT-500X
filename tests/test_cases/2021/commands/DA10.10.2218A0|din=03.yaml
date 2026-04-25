@@ -10,5 +10,5 @@ test_cases:
     Fiat_VGT_ACT: 89.85428
   response: 18DAF110056218A0E606
 - expected_values:
-    Fiat_VGT_ACT: 99.00359
-  response: 18DAF110056218A0FD72
+    Fiat_VGT_ACT: 98.89372
+  response: 18DAF110056218A0FD2A
