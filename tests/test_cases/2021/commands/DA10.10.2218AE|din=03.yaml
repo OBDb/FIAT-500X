@@ -1,6 +1,9 @@
 command_id: DA10.10.2218AE|din=03
 test_cases:
 - expected_values:
+    Fiat_REGEN_CONSEC_INTERRUPTED: 20
+  response: 18DAF110046218AE14
+- expected_values:
     Fiat_REGEN_CONSEC_INTERRUPTED: 24
   response: 18DAF110046218AE18
 - expected_values:
