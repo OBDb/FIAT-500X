@@ -10,5 +10,5 @@ test_cases:
     Fiat_MAF_TEMP: 26.56
   response: 18DAF1100562193F0D00
 - expected_values:
-    Fiat_MAF_TEMP: 42.46
-  response: 18DAF1100562193F101B
+    Fiat_MAF_TEMP: 52.16
+  response: 18DAF1100562193F1200

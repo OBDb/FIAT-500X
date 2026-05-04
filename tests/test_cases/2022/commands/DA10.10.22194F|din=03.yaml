@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     Fiat_OIL_PUMP: 10
   response: 18DAF1100462194F0A
+- expected_values:
+    Fiat_OIL_PUMP: 11
+  response: 18DAF1100462194F0B
