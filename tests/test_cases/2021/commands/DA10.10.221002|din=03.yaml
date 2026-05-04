@@ -7,5 +7,5 @@ test_cases:
     Fiat_ENGINE_STATUS: 4089
   response: 18DAF110056210020FF9
 - expected_values:
-    Fiat_ENGINE_STATUS: 5527
-  response: 18DAF110056210021597
+    Fiat_ENGINE_STATUS: 10432
+  response: 18DAF1100562100228C0

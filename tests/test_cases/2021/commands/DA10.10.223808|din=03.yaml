@@ -1,8 +1,14 @@
 command_id: DA10.10.223808|din=03
 test_cases:
 - expected_values:
+    Fiat_AVG_REGEN_TEMP: 606.46
+  response: 18DAF110056238087E43
+- expected_values:
     Fiat_AVG_REGEN_TEMP: 608.86
   response: 18DAF110056238087EBB
+- expected_values:
+    Fiat_AVG_REGEN_TEMP: 620.16
+  response: 18DAF1100562380880F0
 - expected_values:
     Fiat_AVG_REGEN_TEMP: 624.36
   response: 18DAF1100562380881C2

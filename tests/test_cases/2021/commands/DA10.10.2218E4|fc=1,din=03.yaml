@@ -1,8 +1,8 @@
 command_id: DA10.10.2218E4|fc=1,din=03
 test_cases:
 - expected_values:
-    Fiat_DPF_SOOT_PCT: 45.27352
-  response: 18DAF110056218E40B97
+    Fiat_DPF_SOOT_PCT: 40.11597
+  response: 18DAF110056218E40A45
 - expected_values:
     Fiat_DPF_SOOT_PCT: 46.61631
   response: 18DAF110056218E40BEF

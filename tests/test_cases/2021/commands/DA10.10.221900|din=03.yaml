@@ -7,8 +7,8 @@ test_cases:
     Fiat_FUEL_TEMP: 16.36
   response: 18DAF110056219000B02
 - expected_values:
-    Fiat_FUEL_TEMP: 31.46
-  response: 18DAF110056219000DF5
+    Fiat_FUEL_TEMP: 41.86
+  response: 18DAF110056219000FFD
 - expected_values:
-    Fiat_FUEL_TEMP: 44.36
-  response: 18DAF11005621900107A
+    Fiat_FUEL_TEMP: 42.06
+  response: 18DAF110056219001007

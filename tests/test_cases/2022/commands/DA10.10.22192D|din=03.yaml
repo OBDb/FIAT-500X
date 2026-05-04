@@ -10,5 +10,5 @@ test_cases:
     Fiat_GEAR_ECU: 2
   response: 18DAF1100562192D0200
 - expected_values:
-    Fiat_GEAR_ECU: 4
-  response: 18DAF1100562192D0410
+    Fiat_GEAR_ECU: 5
+  response: 18DAF1100562192D0500

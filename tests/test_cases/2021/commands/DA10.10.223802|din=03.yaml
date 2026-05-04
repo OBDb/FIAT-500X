@@ -4,8 +4,8 @@ test_cases:
     Fiat_FUEL_CORR_CYL3: 0
   response: 18DAF110056238020000
 - expected_values:
-    Fiat_FUEL_CORR_CYL3: -0.6
-  response: 18DAF11005623802FFC4
+    Fiat_FUEL_CORR_CYL3: -1.22
+  response: 18DAF11005623802FF86
 - expected_values:
     Fiat_FUEL_CORR_CYL3: -0.02
   response: 18DAF11005623802FFFE
