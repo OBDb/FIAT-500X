@@ -4,8 +4,8 @@ test_cases:
     Fiat_RPM_ECU: 0
   response: 18DAF110056210000000
 - expected_values:
-    Fiat_RPM_ECU: 831
-  response: 18DAF110056210000CFC
+    Fiat_RPM_ECU: 1023.5
+  response: 18DAF110056210000FFE
 - expected_values:
-    Fiat_RPM_ECU: 2054
-  response: 18DAF110056210002018
+    Fiat_RPM_ECU: 2647
+  response: 18DAF11005621000295C

@@ -8,4 +8,4 @@ test_cases:
   response: 18DAF110056218D00BF7
 - expected_values:
     Fiat_MPROP_CMD: 100
-  response: 18DAF110056218D03F52
+  response: 18DAF110056218D04649

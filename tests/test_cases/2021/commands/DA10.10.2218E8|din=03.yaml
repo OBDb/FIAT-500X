@@ -4,23 +4,8 @@ test_cases:
     Fiat_DPF_FLOW_RES: 0
   response: 18DAF110056218E80000
 - expected_values:
-    Fiat_DPF_FLOW_RES: 0.3358
-  response: 18DAF110056218E80D1E
-- expected_values:
-    Fiat_DPF_FLOW_RES: 0.3359
-  response: 18DAF110056218E80D1F
-- expected_values:
-    Fiat_DPF_FLOW_RES: 0.336
-  response: 18DAF110056218E80D20
-- expected_values:
-    Fiat_DPF_FLOW_RES: 0.3717
-  response: 18DAF110056218E80E85
-- expected_values:
-    Fiat_DPF_FLOW_RES: 0.6015
-  response: 18DAF110056218E8177F
-- expected_values:
     Fiat_DPF_FLOW_RES: 0.611
   response: 18DAF110056218E817DE
 - expected_values:
-    Fiat_DPF_FLOW_RES: 0.6252
-  response: 18DAF110056218E8186C
+    Fiat_DPF_FLOW_RES: 0.6212
+  response: 18DAF110056218E81844
