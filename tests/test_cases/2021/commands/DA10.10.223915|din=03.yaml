@@ -10,5 +10,5 @@ test_cases:
     Fiat_DPF_OUTLET_T: 221.06
   response: 18DAF1100562391532FD
 - expected_values:
-    Fiat_DPF_OUTLET_T: 264.36
-  response: 18DAF110056239153B72
+    Fiat_DPF_OUTLET_T: 267.86
+  response: 18DAF110056239153C21
