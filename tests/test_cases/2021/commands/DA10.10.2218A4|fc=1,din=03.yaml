@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     Fiat_REGEN_TOTAL: 481
   response: 18DAF110056218A401E1
+- expected_values:
+    Fiat_REGEN_TOTAL: 483
+  response: 18DAF110056218A401E3
