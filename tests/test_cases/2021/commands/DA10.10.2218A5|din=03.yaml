@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     Fiat_REGEN_INTERRUPTED: 0
   response: 18DAF110046218A500
+- expected_values:
+    Fiat_REGEN_INTERRUPTED: 2
+  response: 18DAF110046218A502
