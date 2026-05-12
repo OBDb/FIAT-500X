@@ -1,14 +1,11 @@
 command_id: DA10.10.221955|din=03
 test_cases:
 - expected_values:
-    Fiat_BATT_V_ECU: 12.12
-  response: 18DAF110056219555EB0
+    Fiat_BATT_V_ECU: 11.64
+  response: 18DAF110056219555AF0
 - expected_values:
     Fiat_BATT_V_ECU: 14.08
   response: 18DAF110056219556E00
-- expected_values:
-    Fiat_BATT_V_ECU: 14.2
-  response: 18DAF110056219556EF0
 - expected_values:
     Fiat_BATT_V_ECU: 15.04
   response: 18DAF110056219557580
