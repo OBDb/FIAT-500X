@@ -22,6 +22,9 @@ test_cases:
     Fiat_OIL_DEGRAD: 71.99969
   response: 18DAF11005623813B851
 - expected_values:
+    Fiat_OIL_DEGRAD: 98.00107
+  response: 18DAF11005623813FAE1
+- expected_values:
     Fiat_OIL_DEGRAD: 99.00053
   response: 18DAF11005623813FD70
 - expected_values:
