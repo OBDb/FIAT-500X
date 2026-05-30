@@ -19,5 +19,8 @@ test_cases:
     Fiat_AVG_DIST_REGENS: 2180
   response: 18DAF1100562380900DA
 - expected_values:
+    Fiat_AVG_DIST_REGENS: 2190
+  response: 18DAF1100562380900DB
+- expected_values:
     Fiat_AVG_DIST_REGENS: 2410
   response: 18DAF1100562380900F1
