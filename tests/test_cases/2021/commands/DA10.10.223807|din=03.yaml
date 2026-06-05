@@ -1,14 +1,11 @@
 command_id: DA10.10.223807|din=03
 test_cases:
 - expected_values:
-    Fiat_DIST_SINCE_REGEN: 35
-  response: 18DAF1100662380700015E
+    Fiat_DIST_SINCE_REGEN: 0
+  response: 18DAF11006623807000000
 - expected_values:
     Fiat_DIST_SINCE_REGEN: 153
   response: 18DAF110066238070005FA
-- expected_values:
-    Fiat_DIST_SINCE_REGEN: 154
-  response: 18DAF11006623807000604
 - expected_values:
     Fiat_DIST_SINCE_REGEN: 219
   response: 18DAF1100662380700088E
