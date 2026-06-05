@@ -8,4 +8,4 @@ test_cases:
   response: 18DAF1100562189B8902
 - expected_values:
     Fiat_SWIRL_CMD: 100
-  response: 18DAF1100562189BA7EA
+  response: 18DAF1100562189BAA76

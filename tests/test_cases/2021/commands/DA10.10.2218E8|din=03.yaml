@@ -7,5 +7,5 @@ test_cases:
     Fiat_DPF_FLOW_RES: 0.3838
   response: 18DAF110056218E80EFE
 - expected_values:
-    Fiat_DPF_FLOW_RES: 6.5513
-  response: 18DAF110056218E8FFE9
+    Fiat_DPF_FLOW_RES: 6.5408
+  response: 18DAF110056218E8FF80
