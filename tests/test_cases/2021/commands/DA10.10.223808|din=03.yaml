@@ -19,6 +19,9 @@ test_cases:
     Fiat_AVG_REGEN_TEMP: 621.76
   response: 18DAF110056238088140
 - expected_values:
+    Fiat_AVG_REGEN_TEMP: 622.96
+  response: 18DAF11005623808817C
+- expected_values:
     Fiat_AVG_REGEN_TEMP: 624.36
   response: 18DAF1100562380881C2
 - expected_values:
