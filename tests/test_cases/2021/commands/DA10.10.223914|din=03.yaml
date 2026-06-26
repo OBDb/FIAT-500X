@@ -10,5 +10,5 @@ test_cases:
     Fiat_CATALYST_INLET_T: 226.16
   response: 18DAF1100562391433FC
 - expected_values:
-    Fiat_CATALYST_INLET_T: 633.56
-  response: 18DAF11005623914838E
+    Fiat_CATALYST_INLET_T: 713.16
+  response: 18DAF11005623914931A
