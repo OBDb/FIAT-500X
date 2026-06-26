@@ -4,5 +4,5 @@ test_cases:
     Fiat_LAMBDA_DPF_DS: 0
   response: 18DAF110056218ED0000
 - expected_values:
-    Fiat_LAMBDA_DPF_DS: 0.26758
-  response: 18DAF110056218ED0089
+    Fiat_LAMBDA_DPF_DS: 0.26953
+  response: 18DAF110056218ED008A
