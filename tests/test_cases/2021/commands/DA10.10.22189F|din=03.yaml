@@ -1,8 +1,8 @@
 command_id: DA10.10.22189F|din=03
 test_cases:
 - expected_values:
-    Fiat_VGT_CMD: 65.07362
-  response: 18DAF1100562189FA696
+    Fiat_VGT_CMD: 61.70443
+  response: 18DAF1100562189F9DF6
 - expected_values:
     Fiat_VGT_CMD: 68.748
   response: 18DAF1100562189FAFFE
