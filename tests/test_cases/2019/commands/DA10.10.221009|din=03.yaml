@@ -1,0 +1,17 @@
+command_id: DA10.10.221009|din=03
+test_cases:
+- expected_values:
+    500X_WATER_FUEL_DIST: 2
+  response: 18DAF110056210090002
+- expected_values:
+    500X_WATER_FUEL_DIST: 4
+  response: 18DAF110056210090004
+- expected_values:
+    500X_WATER_FUEL_DIST: 6
+  response: 18DAF110056210090006
+- expected_values:
+    500X_WATER_FUEL_DIST: 9
+  response: 18DAF110056210090009
+- expected_values:
+    500X_WATER_FUEL_DIST: 11
+  response: 18DAF11005621009000B

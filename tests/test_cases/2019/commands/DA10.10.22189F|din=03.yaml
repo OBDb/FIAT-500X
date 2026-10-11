@@ -1,0 +1,29 @@
+command_id: DA10.10.22189F|din=03
+test_cases:
+- expected_values:
+    500X_VGT_CMD: 84.47089
+  response: 18DAF1100562189FD83E
+- expected_values:
+    500X_VGT_CMD: 89.46975
+  response: 18DAF1100562189FE50A
+- expected_values:
+    500X_VGT_CMD: 90.00076
+  response: 18DAF1100562189FE666
+- expected_values:
+    500X_VGT_CMD: 91.36187
+  response: 18DAF1100562189FE9E2
+- expected_values:
+    500X_VGT_CMD: 91.97223
+  response: 18DAF1100562189FEB72
+- expected_values:
+    500X_VGT_CMD: 94.33433
+  response: 18DAF1100562189FF17E
+- expected_values:
+    500X_VGT_CMD: 94.99351
+  response: 18DAF1100562189FF32E
+- expected_values:
+    500X_VGT_CMD: 95.39025
+  response: 18DAF1100562189FF432
+- expected_values:
+    500X_VGT_CMD: 96.6598
+  response: 18DAF1100562189FF772

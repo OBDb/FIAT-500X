@@ -1,14 +1,14 @@
 command_id: DA10.10.223808|din=03
 test_cases:
 - expected_values:
-    Fiat_AVG_REGEN_TEMP: 601.46
+    500X_AVG_REGEN_TEMP: 601.46
   response: 18DAF110056238087D49
 - expected_values:
-    Fiat_AVG_REGEN_TEMP: 605.76
+    500X_AVG_REGEN_TEMP: 605.76
   response: 18DAF110056238087E20
 - expected_values:
-    Fiat_AVG_REGEN_TEMP: 615.26
+    500X_AVG_REGEN_TEMP: 615.26
   response: 18DAF110056238087FFB
 - expected_values:
-    Fiat_AVG_REGEN_TEMP: 627.96
+    500X_AVG_REGEN_TEMP: 627.96
   response: 18DAF110056238088276

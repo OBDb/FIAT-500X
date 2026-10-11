@@ -1,0 +1,5 @@
+command_id: DA10.10.223912|din=03
+test_cases:
+- expected_values:
+    500X_REGEN_SUCCESSFULY: 185
+  response: 18DAF1100562391200B9

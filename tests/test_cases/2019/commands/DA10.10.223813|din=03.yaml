@@ -1,0 +1,5 @@
+command_id: DA10.10.223813|din=03
+test_cases:
+- expected_values:
+    500X_OIL_DEGRAD: 73.00069
+  response: 18DAF11005623813BAE1

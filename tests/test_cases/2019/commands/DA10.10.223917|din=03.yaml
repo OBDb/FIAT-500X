@@ -1,0 +1,8 @@
+command_id: DA10.10.223917|din=03
+test_cases:
+- expected_values:
+    500X_EGR_COOLER_T: 67.46
+  response: 18DAF1100562391714FD
+- expected_values:
+    500X_EGR_COOLER_T: 119.06
+  response: 18DAF110056239171F11

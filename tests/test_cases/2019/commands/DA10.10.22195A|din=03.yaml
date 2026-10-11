@@ -1,0 +1,14 @@
+command_id: DA10.10.22195A|din=03
+test_cases:
+- expected_values:
+    500X_BOOST: 93.6
+  response: 18DAF1100562195A83A8
+- expected_values:
+    500X_BOOST: 97.1
+  response: 18DAF1100562195A83CB
+- expected_values:
+    500X_BOOST: 103.4
+  response: 18DAF1100562195A840A
+- expected_values:
+    500X_BOOST: 131.9
+  response: 18DAF1100562195A8527

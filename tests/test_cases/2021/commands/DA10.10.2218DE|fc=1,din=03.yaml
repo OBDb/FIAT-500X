@@ -1,14 +1,14 @@
 command_id: DA10.10.2218DE|fc=1,din=03
 test_cases:
 - expected_values:
-    Fiat_DPF_INLET_T: 19.16
+    500X_DPF_INLET_T: 19.16
   response: 18DAF110056218DE0B8E
 - expected_values:
-    Fiat_DPF_INLET_T: 77.76
+    500X_DPF_INLET_T: 77.76
   response: 18DAF110056218DE1700
 - expected_values:
-    Fiat_DPF_INLET_T: 292.76
+    500X_DPF_INLET_T: 292.76
   response: 18DAF110056218DE40FE
 - expected_values:
-    Fiat_DPF_INLET_T: 703.36
+    500X_DPF_INLET_T: 703.36
   response: 18DAF110056218DE9130

@@ -1,8 +1,8 @@
 command_id: DA10.10.2218A4|fc=1,din=03
 test_cases:
 - expected_values:
-    Fiat_REGEN_TOTAL: 475
+    500X_REGEN_STARTED_TOT: 475
   response: 18DAF110056218A401DB
 - expected_values:
-    Fiat_REGEN_TOTAL: 500
+    500X_REGEN_STARTED_TOT: 500
   response: 18DAF110056218A401F4

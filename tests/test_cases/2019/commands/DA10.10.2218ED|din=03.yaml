@@ -1,0 +1,8 @@
+command_id: DA10.10.2218ED|din=03
+test_cases:
+- expected_values:
+    500X_LAMBDA_DPF_DS: 0.08984
+  response: 18DAF110056218ED002E
+- expected_values:
+    500X_LAMBDA_DPF_DS: 0.19922
+  response: 18DAF110056218ED0066

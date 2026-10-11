@@ -1,0 +1,14 @@
+command_id: DA10.10.223914|din=03
+test_cases:
+- expected_values:
+    500X_CATALYST_INLET_T: 89.16
+  response: 18DAF11005623914193A
+- expected_values:
+    500X_CATALYST_INLET_T: 124.36
+  response: 18DAF11005623914201A
+- expected_values:
+    500X_CATALYST_INLET_T: 128.66
+  response: 18DAF1100562391420F1
+- expected_values:
+    500X_CATALYST_INLET_T: 268.36
+  response: 18DAF110056239143C3A

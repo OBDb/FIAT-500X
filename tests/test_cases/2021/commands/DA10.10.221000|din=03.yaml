@@ -1,11 +1,11 @@
 command_id: DA10.10.221000|din=03
 test_cases:
 - expected_values:
-    Fiat_RPM_ECU: 0
+    500X_RPM: 0
   response: 18DAF110056210000000
 - expected_values:
-    Fiat_RPM_ECU: 1023.5
+    500X_RPM: 1023.5
   response: 18DAF110056210000FFE
 - expected_values:
-    Fiat_RPM_ECU: 4304.5
+    500X_RPM: 4304.5
   response: 18DAF110056210004342

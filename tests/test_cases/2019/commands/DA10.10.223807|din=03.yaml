@@ -1,0 +1,20 @@
+command_id: DA10.10.223807|din=03
+test_cases:
+- expected_values:
+    500X_DIST_SINCE_REGEN: 99
+  response: 18DAF110066238070003DE
+- expected_values:
+    500X_DIST_SINCE_REGEN: 100
+  response: 18DAF110066238070003E8
+- expected_values:
+    500X_DIST_SINCE_REGEN: 102
+  response: 18DAF110066238070003FC
+- expected_values:
+    500X_DIST_SINCE_REGEN: 103
+  response: 18DAF11006623807000406
+- expected_values:
+    500X_DIST_SINCE_REGEN: 104
+  response: 18DAF11006623807000410
+- expected_values:
+    500X_DIST_SINCE_REGEN: 105
+  response: 18DAF1100662380700041A

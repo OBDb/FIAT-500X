@@ -1,0 +1,14 @@
+command_id: DA40.40.221004
+test_cases:
+- expected_values:
+    500X_BATT_V_BCM: 13.3
+  response: 18DAF1400462100485
+- expected_values:
+    500X_BATT_V_BCM: 13.9
+  response: 18DAF140046210048B
+- expected_values:
+    500X_BATT_V_BCM: 14.1
+  response: 18DAF140046210048D
+- expected_values:
+    500X_BATT_V_BCM: 14.7
+  response: 18DAF1400462100493

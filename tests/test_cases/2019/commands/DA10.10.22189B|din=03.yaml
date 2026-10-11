@@ -1,0 +1,32 @@
+command_id: DA10.10.22189B|din=03
+test_cases:
+- expected_values:
+    500X_SWIRL_CMD: -0.01
+  response: 18DAF1100562189B7FFF
+- expected_values:
+    500X_SWIRL_CMD: 14.9
+  response: 18DAF1100562189B85D2
+- expected_values:
+    500X_SWIRL_CMD: 17.62
+  response: 18DAF1100562189B86E2
+- expected_values:
+    500X_SWIRL_CMD: 21.34
+  response: 18DAF1100562189B8856
+- expected_values:
+    500X_SWIRL_CMD: 29.7
+  response: 18DAF1100562189B8B9A
+- expected_values:
+    500X_SWIRL_CMD: 31.42
+  response: 18DAF1100562189B8C46
+- expected_values:
+    500X_SWIRL_CMD: 33.7
+  response: 18DAF1100562189B8D2A
+- expected_values:
+    500X_SWIRL_CMD: 37.86
+  response: 18DAF1100562189B8ECA
+- expected_values:
+    500X_SWIRL_CMD: 45.78
+  response: 18DAF1100562189B91E2
+- expected_values:
+    500X_SWIRL_CMD: 51.82
+  response: 18DAF1100562189B943E
