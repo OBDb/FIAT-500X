@@ -1,14 +1,14 @@
 command_id: DA10.10.223915|din=03
 test_cases:
 - expected_values:
-    Fiat_DPF_OUTLET_T: 16.86
+    500X_DPF_OUTLET_T: 16.86
   response: 18DAF110056239150B1B
 - expected_values:
-    Fiat_DPF_OUTLET_T: 26.56
+    500X_DPF_OUTLET_T: 26.56
   response: 18DAF110056239150D00
 - expected_values:
-    Fiat_DPF_OUTLET_T: 287.66
+    500X_DPF_OUTLET_T: 287.66
   response: 18DAF110056239153FFF
 - expected_values:
-    Fiat_DPF_OUTLET_T: 713.66
+    500X_DPF_OUTLET_T: 713.66
   response: 18DAF110056239159333

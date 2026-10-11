@@ -1,0 +1,23 @@
+command_id: DA10.10.2218E8|din=03
+test_cases:
+- expected_values:
+    500X_DPF_FLOW_RES: 0
+  response: 18DAF110056218E80000
+- expected_values:
+    500X_DPF_FLOW_RES: 0.2124
+  response: 18DAF110056218E8084C
+- expected_values:
+    500X_DPF_FLOW_RES: 0.2453
+  response: 18DAF110056218E80995
+- expected_values:
+    500X_DPF_FLOW_RES: 0.291
+  response: 18DAF110056218E80B5E
+- expected_values:
+    500X_DPF_FLOW_RES: 0.2956
+  response: 18DAF110056218E80B8C
+- expected_values:
+    500X_DPF_FLOW_RES: 0.3608
+  response: 18DAF110056218E80E18
+- expected_values:
+    500X_DPF_FLOW_RES: 0.4474
+  response: 18DAF110056218E8117A

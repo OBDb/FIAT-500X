@@ -1,0 +1,11 @@
+command_id: DA10.10.2218E4|fc=1,din=03
+test_cases:
+- expected_values:
+    500X_DPF_SOOT_PCT: 49.37819
+  response: 18DAF110056218E40CA4
+- expected_values:
+    500X_DPF_SOOT_PCT: 50.52262
+  response: 18DAF110056218E40CEF
+- expected_values:
+    500X_DPF_SOOT_PCT: 51.02617
+  response: 18DAF110056218E40D10

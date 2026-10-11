@@ -1,0 +1,8 @@
+command_id: DA10.10.223802|din=03
+test_cases:
+- expected_values:
+    500X_FUEL_CORR_CYL3: 0.04
+  response: 18DAF110056238020004
+- expected_values:
+    500X_FUEL_CORR_CYL3: -0.45
+  response: 18DAF11005623802FFD3

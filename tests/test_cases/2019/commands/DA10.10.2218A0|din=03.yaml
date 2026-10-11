@@ -1,0 +1,14 @@
+command_id: DA10.10.2218A0|din=03
+test_cases:
+- expected_values:
+    500X_VGT_ACT: 85.61837
+  response: 18DAF110056218A0DB2E
+- expected_values:
+    500X_VGT_ACT: 90.25711
+  response: 18DAF110056218A0E70E
+- expected_values:
+    500X_VGT_ACT: 92.12482
+  response: 18DAF110056218A0EBD6
+- expected_values:
+    500X_VGT_ACT: 98.49699
+  response: 18DAF110056218A0FC26

@@ -1,0 +1,14 @@
+command_id: DA10.10.221003|din=03
+test_cases:
+- expected_values:
+    500X_ECT_ECU: 30.96
+  response: 18DAF110056210030DDC
+- expected_values:
+    500X_ECT_ECU: 62.36
+  response: 18DAF1100562100313FE
+- expected_values:
+    500X_ECT_ECU: 84.16
+  response: 18DAF110056210031840
+- expected_values:
+    500X_ECT_ECU: 89.36
+  response: 18DAF110056210031944

@@ -1,11 +1,11 @@
 command_id: DA10.10.22380B|din=03
 test_cases:
 - expected_values:
-    Fiat_REGEN_PROGRESS: 0
+    500X_REGEN_PROGRESS: 0
   response: 18DAF1100562380B0000
 - expected_values:
-    Fiat_REGEN_PROGRESS: 24.57923
+    500X_REGEN_PROGRESS: 24.57923
   response: 18DAF1100562380B3EEC
 - expected_values:
-    Fiat_REGEN_PROGRESS: 57.07942
+    500X_REGEN_PROGRESS: 57.07942
   response: 18DAF1100562380B921F

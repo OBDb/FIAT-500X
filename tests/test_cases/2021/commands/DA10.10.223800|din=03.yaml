@@ -1,11 +1,11 @@
 command_id: DA10.10.223800|din=03
 test_cases:
 - expected_values:
-    Fiat_FUEL_CORR_CYL1: 0
+    500X_FUEL_CORR_CYL1: 0
   response: 18DAF110056238000000
 - expected_values:
-    Fiat_FUEL_CORR_CYL1: -1.65
+    500X_FUEL_CORR_CYL1: -1.65
   response: 18DAF11005623800FF5B
 - expected_values:
-    Fiat_FUEL_CORR_CYL1: -0.01
+    500X_FUEL_CORR_CYL1: -0.01
   response: 18DAF11005623800FFFF

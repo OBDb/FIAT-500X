@@ -1,8 +1,8 @@
 command_id: DA10.10.2218A5|din=03
 test_cases:
 - expected_values:
-    Fiat_REGEN_INTERRUPTED: 0
+    500X_REGEN_INTERRUPTED: 0
   response: 18DAF110046218A500
 - expected_values:
-    Fiat_REGEN_INTERRUPTED: 2
+    500X_REGEN_INTERRUPTED: 2
   response: 18DAF110046218A502

@@ -1,0 +1,5 @@
+command_id: DA10.10.22380A|din=03
+test_cases:
+- expected_values:
+    500X_AVG_REGEN_DUR: 5.45
+  response: 18DAF1100562380A0147

@@ -1,0 +1,11 @@
+command_id: DA10.10.221946|din=03
+test_cases:
+- expected_values:
+    500X_RAIL_PRESS_CMD: 311.8
+  response: 18DAF11005621946185C
+- expected_values:
+    500X_RAIL_PRESS_CMD: 358.7
+  response: 18DAF110056219461C06
+- expected_values:
+    500X_RAIL_PRESS_CMD: 907.9
+  response: 18DAF1100562194646EE

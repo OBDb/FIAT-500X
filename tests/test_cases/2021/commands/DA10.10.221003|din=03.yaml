@@ -1,14 +1,14 @@
 command_id: DA10.10.221003|din=03
 test_cases:
 - expected_values:
-    Fiat_ECT_ECU: 17.66
+    500X_ECT_ECU: 17.66
   response: 18DAF110056210030B43
 - expected_values:
-    Fiat_ECT_ECU: 21.46
+    500X_ECT_ECU: 21.46
   response: 18DAF110056210030C01
 - expected_values:
-    Fiat_ECT_ECU: 36.76
+    500X_ECT_ECU: 36.76
   response: 18DAF110056210030EFE
 - expected_values:
-    Fiat_ECT_ECU: 93.16
+    500X_ECT_ECU: 93.16
   response: 18DAF110056210031A02

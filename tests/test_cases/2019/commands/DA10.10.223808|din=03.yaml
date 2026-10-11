@@ -1,0 +1,5 @@
+command_id: DA10.10.223808|din=03
+test_cases:
+- expected_values:
+    500X_AVG_REGEN_TEMP: 630.26
+  response: 18DAF1100562380882E9

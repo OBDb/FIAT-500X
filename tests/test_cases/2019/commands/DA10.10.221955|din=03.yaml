@@ -1,0 +1,29 @@
+command_id: DA10.10.221955|din=03
+test_cases:
+- expected_values:
+    500X_BATT_V_ECU: 14
+  response: 18DAF110056219556D60
+- expected_values:
+    500X_BATT_V_ECU: 14.08
+  response: 18DAF110056219556E00
+- expected_values:
+    500X_BATT_V_ECU: 14.12
+  response: 18DAF110056219556E50
+- expected_values:
+    500X_BATT_V_ECU: 14.28
+  response: 18DAF110056219556F90
+- expected_values:
+    500X_BATT_V_ECU: 14.3
+  response: 18DAF110056219556FB8
+- expected_values:
+    500X_BATT_V_ECU: 14.32
+  response: 18DAF110056219556FE0
+- expected_values:
+    500X_BATT_V_ECU: 14.34
+  response: 18DAF110056219557008
+- expected_values:
+    500X_BATT_V_ECU: 14.36
+  response: 18DAF110056219557030
+- expected_values:
+    500X_BATT_V_ECU: 14.82
+  response: 18DAF1100562195573C8

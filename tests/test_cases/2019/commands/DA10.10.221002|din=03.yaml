@@ -1,0 +1,32 @@
+command_id: DA10.10.221002|din=03
+test_cases:
+- expected_values:
+    500X_ENGINE_STATUS: 0
+  response: 18DAF110056210020000
+- expected_values:
+    500X_ENGINE_STATUS: 2133
+  response: 18DAF110056210020855
+- expected_values:
+    500X_ENGINE_STATUS: 2489
+  response: 18DAF1100562100209B9
+- expected_values:
+    500X_ENGINE_STATUS: 2818
+  response: 18DAF110056210020B02
+- expected_values:
+    500X_ENGINE_STATUS: 4747
+  response: 18DAF11005621002128B
+- expected_values:
+    500X_ENGINE_STATUS: 4788
+  response: 18DAF1100562100212B4
+- expected_values:
+    500X_ENGINE_STATUS: 5171
+  response: 18DAF110056210021433
+- expected_values:
+    500X_ENGINE_STATUS: 5551
+  response: 18DAF1100562100215AF
+- expected_values:
+    500X_ENGINE_STATUS: 5876
+  response: 18DAF1100562100216F4
+- expected_values:
+    500X_ENGINE_STATUS: 6082
+  response: 18DAF1100562100217C2

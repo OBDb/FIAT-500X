@@ -1,0 +1,11 @@
+command_id: DA10.10.22193F|din=03
+test_cases:
+- expected_values:
+    500X_MAF_TEMP: 23.06
+  response: 18DAF1100562193F0C51
+- expected_values:
+    500X_MAF_TEMP: 28.76
+  response: 18DAF1100562193F0D6E
+- expected_values:
+    500X_MAF_TEMP: 31.66
+  response: 18DAF1100562193F0DFF

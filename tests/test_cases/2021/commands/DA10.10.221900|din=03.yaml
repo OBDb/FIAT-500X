@@ -1,14 +1,14 @@
 command_id: DA10.10.221900|din=03
 test_cases:
 - expected_values:
-    Fiat_FUEL_TEMP: 14.66
+    500X_FUEL_T: 14.66
   response: 18DAF110056219000AAD
 - expected_values:
-    Fiat_FUEL_TEMP: 26.56
+    500X_FUEL_T: 26.56
   response: 18DAF110056219000D00
 - expected_values:
-    Fiat_FUEL_TEMP: 31.66
+    500X_FUEL_T: 31.66
   response: 18DAF110056219000DFF
 - expected_values:
-    Fiat_FUEL_TEMP: 52.76
+    500X_FUEL_T: 52.76
   response: 18DAF11005621900121E

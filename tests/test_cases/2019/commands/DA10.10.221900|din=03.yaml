@@ -1,0 +1,11 @@
+command_id: DA10.10.221900|din=03
+test_cases:
+- expected_values:
+    500X_FUEL_T: 23.06
+  response: 18DAF110056219000C51
+- expected_values:
+    500X_FUEL_T: 31.66
+  response: 18DAF110056219000DFF
+- expected_values:
+    500X_FUEL_T: 31.76
+  response: 18DAF110056219000E04

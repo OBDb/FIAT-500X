@@ -1,0 +1,11 @@
+command_id: DA10.10.223915|din=03
+test_cases:
+- expected_values:
+    500X_DPF_OUTLET_T: 66.96
+  response: 18DAF1100562391514E4
+- expected_values:
+    500X_DPF_OUTLET_T: 206.16
+  response: 18DAF110056239153014
+- expected_values:
+    500X_DPF_OUTLET_T: 244.86
+  response: 18DAF1100562391537A3
