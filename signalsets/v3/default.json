@@ -226,7 +226,7 @@
 { "hdr": "DA18", "rax": "18", "dbg": true, "cmd": {"22": "051A"}, "freq": 1,
   "signals": [
     {"id": "500X_GEAR_DESIRED", "path": "Transmission", "fmt": {          "len": 4, "max": 15, "unit": "scalar" }, "name": "Desired gear"},
-    {"id": "500X_GEAR_CURRENT", "path": "Transmission", "fmt": {"bix": 4, "len": 4, "max": 15, "unit": "scalar" }, "name": "Current gear"}
+    {"id": "500X_GEAR_CURRENT", "path": "Transmission", "fmt": {"bix": 4, "len": 4, "max": 15, "unit": "scalar" }, "name": "Current gear", "suggestedMetric": "gear"}
   ]},
 { "hdr": "DA18", "rax": "18", "dbg": true, "cmd": {"22": "1018"}, "freq": 2,
   "signals": [
