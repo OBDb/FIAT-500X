@@ -1,0 +1,5 @@
+command_id: DA10.10.222005
+test_cases:
+- expected_values:
+    500X_MAX_RPM_REACHED: 2400
+  response: 18DAF110046220053C

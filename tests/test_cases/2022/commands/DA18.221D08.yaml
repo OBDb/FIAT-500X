@@ -1,0 +1,5 @@
+command_id: DA18.221D08
+test_cases:
+- expected_values:
+    500X_AT_INPUT_RPM: 0
+  response: 18DAF11807621D0800000000

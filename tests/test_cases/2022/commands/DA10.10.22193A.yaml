@@ -1,0 +1,5 @@
+command_id: DA10.10.22193A
+test_cases:
+- expected_values:
+    500X_TURBO_BOOST_ACTUATOR: 0
+  response: 18DAF1100562193A0000

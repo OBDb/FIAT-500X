@@ -1,0 +1,5 @@
+command_id: DA10.10.2219BD
+test_cases:
+- expected_values:
+    500X_BAT_ST_CHG: 0
+  response: 18DAF110056219BD0000
