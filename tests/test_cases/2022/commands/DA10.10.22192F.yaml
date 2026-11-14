@@ -1,0 +1,5 @@
+command_id: DA10.10.22192F
+test_cases:
+- expected_values:
+    500X_AC_P: 0
+  response: 18DAF1100562192F0000

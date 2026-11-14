@@ -1,0 +1,8 @@
+command_id: DA18.221D09
+test_cases:
+- expected_values:
+    500X_ATF_T: -37
+  response: 18DAF11804621D090D
+- expected_values:
+    500X_ATF_T: -20
+  response: 18DAF11804621D091E

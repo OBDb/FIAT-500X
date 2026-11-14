@@ -1,0 +1,5 @@
+command_id: DA18.221D12
+test_cases:
+- expected_values:
+    500X_GEAR: 0
+  response: 18DAF11807621D120000A011
