@@ -4,5 +4,5 @@ test_cases:
     500X_BATT_V_BCM: 11
   response: 18DAF140046210046E
 - expected_values:
-    500X_BATT_V_BCM: 14.6
-  response: 18DAF1400462100492
+    500X_BATT_V_BCM: 14.7
+  response: 18DAF1400462100493
