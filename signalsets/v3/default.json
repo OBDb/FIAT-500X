@@ -129,7 +129,7 @@
   ]},
 { "hdr": "DA10", "rax": "10", "din": "03", "cmd": {"22": "195A"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020], "from": 2022 },
   "signals": [
-    {"id": "500X_BOOST", "path": "Engine", "fmt": { "len": 16, "max": 300, "min": -100, "div": 10, "add": -3276.8, "unit": "kilopascal" }, "name": "Turbo boost pressure"}
+    {"id": "500X_BOOST", "path": "Engine", "fmt": { "len": 16, "max": 300, "min": -100, "div": 10, "add": -3276.8, "unit": "kilopascal" }, "name": "Turbo boost pressure", "suggestedMetric": "absoluteBoostPressure"}
   ]},
 { "hdr": "DA10", "rax": "10", "dbg": true, "cmd": {"22": "195B"}, "freq": 1,
   "signals": [
